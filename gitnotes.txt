@@ -1,0 +1,15 @@
+Creating Git Folder
+
+* mkdir makes a new directory.
+
+* cd changes the current working directory.
+
+mkdir myproject
+cd myproject
+
+Initialize Git
+
+git init 
+Initialized empty Git repository in /Users/user/myproject/.git/
+
+You just created your first Git Repository!
